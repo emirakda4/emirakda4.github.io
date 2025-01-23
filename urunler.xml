@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urunler>
+    <urun>
+        <urun_ad>Hava Filtresi İçi - Kuba Grace 50</urun_ad>
+        <urun_stok>25</urun_stok>
+        <urun_marka_ad/>
+        <urun_fiyat>381,00</urun_fiyat>
+        <urun_kdv>0.20</urun_kdv>
+        <urun_aciklama/>
+        <urun_resim1>https://www.motosikletsepeti.com/Images/Urun/b28122024203138.png</urun_resim1>
+        <urun_kategori_ad>Kuba</urun_kategori_ad>
+    </urun>
+    <urun>
+        <urun_ad>Fan Kapağı - Kuba Rosewood 50</urun_ad>
+        <urun_stok>25</urun_stok>
+        <urun_marka_ad/>
+        <urun_fiyat>336,00</urun_fiyat>
+        <urun_kdv>0.20</urun_kdv>
+        <urun_aciklama/>
+        <urun_resim1>https://www.motosikletsepeti.com/Images/Urun/b29062019130600.png</urun_resim1>
+        <urun_kategori_ad>Kuba</urun_kategori_ad>
+    </urun>
+    <urun>
+        <urun_ad>Arka Fren Balatası - Rks Wildcat 125</urun_ad>
+        <urun_stok>25</urun_stok>
+        <urun_marka_ad/>
+        <urun_fiyat>304,00</urun_fiyat>
+        <urun_kdv>0.20</urun_kdv>
+        <urun_aciklama/>
+        <urun_resim1>https://www.motosikletsepeti.com/Images/Urun/b16022018192331.jpeg</urun_resim1>
+        <urun_kategori_ad>Rks</urun_kategori_ad>
+    </urun>
+    <urun>
+        <urun_ad>Hava Filtresi İçi - Kuba Bannry 125</urun_ad>
+        <urun_stok>25</urun_stok>
+        <urun_marka_ad/>
+        <urun_fiyat>576,00</urun_fiyat>
+        <urun_kdv>0.20</urun_kdv>
+        <urun_aciklama/>
+        <urun_resim1>https://www.motosikletsepeti.com/Images/Urun/b28122024201518.png</urun_resim1>
+        <urun_kategori_ad>Kuba</urun_kategori_ad>
+    </urun>
+    <urun>
+        <urun_ad>Ön Disk Balatası Takım - Kuba Bannry 125</urun_ad>
+        <urun_stok>25</urun_stok>
+        <urun_marka_ad/>
+        <urun_fiyat>403,99</urun_fiyat>
+        <urun_kdv>0.20</urun_kdv>
+        <urun_aciklama/>
+        <urun_resim1>https://www.motosikletsepeti.com/Images/Urun/b28122024200715.png</urun_resim1>
+        <urun_kategori_ad>Kuba</urun_kategori_ad>
+    </urun>
+    <urun>
+        <urun_ad>Depo Kapağı - Kuba XF 110</urun_ad>
+        <urun_stok>25</urun_stok>
+        <urun_marka_ad/>
+        <urun_fiyat>113,83</urun_fiyat>
+        <urun_kdv>0.20</urun_kdv>
+        <urun_aciklama/>
+        <urun_resim1>https://www.motosikletsepeti.com/Images/Urun/b09052021224812.png</urun_resim1>
+        <urun_kategori_ad>Kuba</urun_kategori_ad>
+    </urun>
+    <urun>
+        <urun_ad>Arka Amortisör Tek - Kuba XF 110</urun_ad>
+        <urun_stok>25</urun_stok>
+        <urun_marka_ad/>
+        <urun_fiyat>1.489,01</urun_fiyat>
+        <urun_kdv>0.20</urun_kdv>
+        <urun_aciklama/>
+        <urun_resim1>https://www.motosikletsepeti.com/Images/Urun/b13022021184937.png</urun_resim1>
+        <urun_kategori_ad>Kuba</urun_kategori_ad>
+    </urun>
+    <urun>
+        <urun_ad>Silindir Piston Sekman Takım - Kuba XF 110</urun_ad>
+        <urun_stok>25</urun_stok>
+        <urun_marka_ad/>
+        <urun_fiyat>2.647,99</urun_fiyat>
+        <urun_kdv>0.20</urun_kdv>
+        <urun_aciklama/>
+        <urun_resim1>https://www.motosikletsepeti.com/Images/Urun/b11022021140957.png</urun_resim1>
+        <urun_kategori_ad>Kuba</urun_kategori_ad>
+    </urun>
+     <urun>
+        <urun_ad>Arka Fren Kolu - Kuba XF 110</urun_ad>
+        <urun_stok>25</urun_stok>
+        <urun_marka_ad/>
+        <urun_fiyat>558,90</urun_fiyat>
+        <urun_kdv>0.20</urun_kdv>
+        <urun_aciklama/>
+        <urun_resim1>https://www.motosikletsepeti.com/Images/Urun/b05012021174244.png</urun_resim1>
+        <urun_kategori_ad>Kuba</urun_kategori_ad>
+    </urun>
+     <urun>
+        <urun_ad>Teker Üstü Çamurluk - Kuba Rosewood 50</urun_ad>
+        <urun_stok>25</urun_stok>
+        <urun_marka_ad/>
+        <urun_fiyat>278,76</urun_fiyat>
+        <urun_kdv>0.20</urun_kdv>
+        <urun_aciklama/>
+        <urun_resim1>https://www.motosikletsepeti.com/Images/Urun/b16032019151836.png</urun_resim1>
+        <urun_kategori_ad>Kuba</urun_kategori_ad>
+    </urun>
+     <urun>
+        <urun_ad>Hava Filtresi İçi - Kuba Grace 50</urun_ad>
+        <urun_stok>25</urun_stok>
+        <urun_marka_ad/>
+        <urun_fiyat>381,00</urun_fiyat>
+        <urun_kdv>0.20</urun_kdv>
+        <urun_aciklama/>
+        <urun_resim1>https://www.motosikletsepeti.com/Images/Urun/b28122024203138.png</urun_resim1>
+        <urun_kategori_ad>Kuba</urun_kategori_ad>
+    </urun>
+</urunler>
